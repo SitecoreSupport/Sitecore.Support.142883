@@ -1,5 +1,5 @@
 # Sitecore.Support.142883
-Sitecore uses incorrect codes of Chinese regions
+Sitecore uses incorrect codes of Chinese regions (Experience Analytics report)
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.142883/blob/master/LICENSE).  
